@@ -188,9 +188,8 @@ nav{
   /* header{
     display: flex;
     /* justify-content: space-between; */
-    flex-direction: column;
+    /* flex-direction: column;
     flex-wrap: wrap; */
-  }
 
   main{
     padding-top: 142.422;
